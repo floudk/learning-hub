@@ -1,0 +1,3 @@
+[submodule "courses/coursera-machine-learning"]
+	path = courses/coursera-machine-learning
+	url = https://github.com/floudk/coursera-machine-learning

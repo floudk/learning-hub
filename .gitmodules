@@ -1,3 +1,9 @@
 [submodule "courses/coursera-machine-learning"]
 	path = courses/coursera-machine-learning
 	url = https://github.com/floudk/coursera-machine-learning
+[submodule "courses/cs234-reinforcement-learning"]
+	path = courses/cs234-reinforcement-learning
+	url = https://github.com/floudk/cs234-reinforcement-learning
+[submodule "courses/ee374-blockchain-foundations"]
+	path = courses/ee374-blockchain-foundations
+	url = https://github.com/floudk/ee374-blockchain-foundations

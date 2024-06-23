@@ -7,6 +7,3 @@
 [submodule "courses/ee374-blockchain-foundations"]
 	path = courses/ee374-blockchain-foundations
 	url = https://github.com/floudk/ee374-blockchain-foundations
-[submodule "papers"]
-	path = papers
-	url = https://github.com/floudk/paperhub.git
